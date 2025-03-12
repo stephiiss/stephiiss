@@ -26,7 +26,7 @@
 
 ###
 
-<img align="left" height="158" src="https://media1.tenor.com/m/dlO08jgtJHIAAAAC/fuego.gif"  />
+
 
 ###
 
