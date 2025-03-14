@@ -1,4 +1,4 @@
-<h2 align="left">Hello world, my name is Stephani and I'm a web developer.<br>Welcome to my github!</h2>
+<h2 align="left">Hello world, my name is Stephani and I'm a Software Developer.<br>Welcome to my github!</h2>
 
 ###
 
