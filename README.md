@@ -22,7 +22,7 @@
 ## 🌷 Conecte-se comigo
 
 <p>
-  <a href="mailto:stephanidejesus2@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/stephanidejesus2@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://www.linkedin.com/in/stephani-de-jesus-b35730299"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
