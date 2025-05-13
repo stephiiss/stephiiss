@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello world, my name is Stephani and I am a software developer. Welcome to my gitHub!✨<br><strong>Seja a mudança.</strong></h1>
+<h1 align="center">✨ Hello world, my name is Stephani and I am a software developer. Welcome to my gitHub!✨</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Olá,%20eu%20sou%20Stephani!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
