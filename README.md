@@ -16,11 +16,11 @@
 
 ## 💕 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephiiss&layout=compact&theme=rose_pine&hide_border=true)
 
 ## 🎀 Estatísticas do GitHub
 
-![Stephani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=rose_pine&hide_border=true)
+![Stephani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephiiss&show_icons=true&theme=rose_pine&hide_border=true)
 
 ## 🌷 Conecte-se comigo
 
