@@ -1,25 +1,25 @@
 <h1 align="center">✨ Hello world, my name is Stephani and I am a software developer. Welcome to my GitHub! ✨</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Olá,%20eu%20sou%20Stephani!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hi,%20I'm%20Stephani!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
-## 🌸 Sobre mim
+## 🌸 About me
   
-- 💻 Estudante de **Sistemas para Internet** na FATEC Taquaritinga  
-- 💡 Apaixonada por tecnologia  
-- 🌍 De Taquaritinga, SP – Brasil  
-- 🚀 Em constante aprendizado e evolução  
+- 💻 Student of **Internet Systems** at FATEC Taquaritinga  
+- 💡 Passionate about technology  
+- 🌍 From Taquaritinga, SP – Brazil  
+- 🚀 Always learning and evolving  
 
-## 💕 Linguagens mais usadas
+## 💕 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephiiss&layout=compact&bg_color=000000&border_color=ff69b4&title_color=ff69b4&text_color=ffffff" />
 
-## 🎀 Estatísticas do GitHub
+## 🎀 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=stephiiss&show_icons=true&bg_color=000000&border_color=ff69b4&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" />
 
-## 🌷 Conecte-se comigo
+## 🌷 Connect with me
 
 <p>
   <img src="https://img.shields.io/badge/stephanidejesus2@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
